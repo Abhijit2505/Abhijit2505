@@ -1,16 +1,26 @@
-### Hi there 👋
+![](https://github.com/Abhijit2505/Abhijit2505/blob/master/Good%20Guy.png)
+# Hi There 👋
 
-<!--
-**Abhijit2505/Abhijit2505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is **Abhijit** here. Most probably you know me. If you know me then I am grateful. Thank you for your time.
 
-Here are some ideas to get you started:
+- 💻 I’m currently working on a **Web Scrapper** that scraps out my <a href="https://www.linkedin.com/in/abhijit-tripathy-415912187/">LinkedIn</a> data and stored is in a **JSON** file.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📖 I’m currently learning **Flutter Development**
+
+- 👯 I’m looking to collaborate on **OpenSourced** projects on **ML/DL**
+
+- 🤔 I’m looking for help with my **Website Development** skills.
+
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/abhijit-tripathy-415912187/">LinkedIn</a> or <a href="https://twitter.com/AbhijitTripat13">Twitter</a>  or <a href="mailto:abhijittripathy99@gmail.com">Email</a>
+
+- 😄 Pronouns: **Coder**, **Leader** and **Kind Hearted**
+
+- ⚡ Fun fact: I love **pista** flavoured icecream. Let's grab one in your free time.
+
+## About Me
+
+I have the **attitude** of a learner, the **courage** of an entrepreneur and the **thinking** of an optimist,engraved inside me. I wish to be a leader in my community of people.
+
+My interest lies in writing both **technical/non-technical blogs** and **teaching** people with some skills. I am a **hardcore programmer**, a Machine Learning enthusiast and an Opensource contributor. 
+
+My hobbies include **Graphic Designing**, **Reading Novels**, **Journals** and **Listening to Music**.
