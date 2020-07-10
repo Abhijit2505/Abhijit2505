@@ -1,7 +1,7 @@
 ![](https://github.com/Abhijit2505/Abhijit2505/blob/master/Cover%20Pics.png)
 # Hi There 👋
 
-This is **Abhijit** here. Most probably you know me. If you know me then I am grateful. Thank you for your time.
+This is **Abhijit** here. Most probably you know me. If you know me then I am glad. Thank you for your time.
 
 - 💻 I’m currently working on a **Web Scrapper** that scraps out my <a href="https://www.linkedin.com/in/abhijit-tripathy-415912187/">LinkedIn</a> data and stored is in a **JSON** file.
 
