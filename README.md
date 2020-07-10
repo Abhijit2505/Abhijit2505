@@ -15,7 +15,7 @@ This is **Abhijit** here. Most probably you know me. If you know me then I am gr
 
 - 😄 Pronouns: **Coder**, **Leader** and **Kind Hearted**
 
-- ⚡ Fun fact: I love **pista** flavoured icecream. Let's grab one in your free time.
+- ⚡ Fun fact: I love **Pista** flavoured icecream 🍨 . Let's grab some in your free time.
 
 ## About Me
 
