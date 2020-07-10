@@ -1,4 +1,4 @@
-![](https://github.com/Abhijit2505/Abhijit2505/blob/master/Good%20Guy.png)
+![](https://github.com/Abhijit2505/Abhijit2505/blob/master/Cover%20Pic.png)
 # Hi There 👋
 
 This is **Abhijit** here. Most probably you know me. If you know me then I am grateful. Thank you for your time.
