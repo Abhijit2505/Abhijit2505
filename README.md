@@ -164,4 +164,3 @@ My hobbies include **Graphic Designing**, **Reading Novels**, **Journals** and *
     </tr>
   </tbody>
 </table>
-
