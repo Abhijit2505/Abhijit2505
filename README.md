@@ -21,7 +21,7 @@ This is **Abhijit** here. Most probably you know me. If you know me then I am gl
 
 I have the **attitude** of a learner, the **courage** of an entrepreneur and the **thinking** of an optimist,engraved inside me. I wish to be a leader in my community of people.
 
-My interest lies in writing both **technical/non-technical blogs** and **teaching** people with some skills. I am a **hardcore programmer**, a Machine Learning enthusiast and an Opensource contributor. 
+My interest lies in writing both **technical/non-technical blogs** and **teaching** people with some skills. I am a **hardcore programmer**, a **Machine Learning enthusiast** and an **Opensource contributor**. 
 
 My hobbies include **Graphic Designing**, **Reading Novels**, **Journals** and **Listening to Music**.
 
@@ -128,7 +128,7 @@ My hobbies include **Graphic Designing**, **Reading Novels**, **Journals** and *
       </td>
       <td>
         <ul>
-          Managing the entire slack application workspace for the Uplift Project.
+          <li>Managing the entire slack application workspace for the Uplift Project</li>
         </ul>
       </td>
       <td>
@@ -156,7 +156,7 @@ My hobbies include **Graphic Designing**, **Reading Novels**, **Journals** and *
         (Incubate IND)
       </td>
       <td>
-          INCIND Technology Fellowship is a unique and exclusive program for the coders, hackers, designers and innovators of tomorrow.
+          <li>INCIND Technology Fellowship is a unique and exclusive program for the coders, hackers, designers and innovators of tomorrow</li>
       </td>
       <td>
         July 2020 - Present
