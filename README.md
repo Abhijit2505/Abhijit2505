@@ -24,3 +24,144 @@ I have the **attitude** of a learner, the **courage** of an entrepreneur and the
 My interest lies in writing both **technical/non-technical blogs** and **teaching** people with some skills. I am a **hardcore programmer**, a Machine Learning enthusiast and an Opensource contributor. 
 
 My hobbies include **Graphic Designing**, **Reading Novels**, **Journals** and **Listening to Music**.
+
+## My Work Experience
+
+<table border='3'>
+  <thead>
+    <tr>
+      <td>
+        <center><strong>Job Name</strong></center>
+      </td>
+      <td>
+        <center><strong>Roles & responsibilities </strong></center>
+      </td>
+      <td>
+        <center><strong>Duration</strong></center>
+      </td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <em><b>Chapter Leader</b></em><br />
+        (GirlScript Foundation)
+      </td>
+      <td>
+        <ul>
+          <li>Publicize:- Spread awareness about Girlscript events and program in my region</li>
+<li>Ideate:- Strategize and drive innovative word of mouth campaigns in our activities and events</li>
+<li>Promote:- Ensuring enthusiastic participation from my region</li>
+<li>Organize:- Planning and organizing events in my community</li>
+<li>Represent:-Acting as a representative for Girlscript for promoting the festival in my circles</li>
+        </ul>
+      </td>
+      <td>
+        Jun 2020 - Present
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <em><b>DSA Developer Intern</b></em><br />
+        (OpenGenus Foundation)
+      </td>
+      <td>
+        <ul>
+          <li>Open-Source contribution in the existing project codes</li>
+          <li>Writing technical articles</li>
+        </ul>
+      </td>
+      <td>
+        Jun 2020 - Present
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <em><b>Data Analytics and Research Intern</b></em><br />
+        (Wealthy Waste)
+      </td>
+      <td>
+        <ul>
+          <li>Analysis of the provided data (Exploratory Data Analysis)</li>
+<li>Correlating the data with real-life incidents, by using Statistical Analysis</li>
+<li>Preparing a research output based on the </li>
+        </ul>
+      </td>
+      <td>
+        May 2020 - Jun 2020
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <em><b>Mission Advocate</b></em><br />
+        (Widhya)
+      </td>
+      <td>
+        <ul>
+          <li>Creating content for Missions</li>
+<li> Creating communities and helping to reach out to more students</li>
+<li>Participate in the decision making processes along with the rest of Team Widhya</li>
+        </ul>
+      </td>
+      <td>
+        July 2020 - Present
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <em><b>Problem Setter</b></em><br />
+        (Cutshort)
+      </td>
+      <td>
+        <ul>
+          <li>Setting Problems ranging from easy to medium and hard levels</li>
+        </ul>
+      </td>
+      <td>
+        July 2020 - Present
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <em><b>Management Team Member</b></em></em><br />
+        (The Uplift Project)
+      </td>
+      <td>
+        <ul>
+          Managing the entire slack application workspace for the Uplift Project.
+        </ul>
+      </td>
+      <td>
+        May 2020 - Present
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <em><b>Technical Content Writer</b></em></em><br />
+        (Geeks For Geeks)
+      </td>
+      <td>
+        <ul>
+          <li>Writing innovative technical articles</li>
+          <li>Editing and improving the code and content of the existing article</li>
+        </ul>
+      </td>
+      <td>
+        May 2020 - Present
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <em><b>Fellow</b></em></em><br />
+        (Incubate IND)
+      </td>
+      <td>
+          INCIND Technology Fellowship is a unique and exclusive program for the coders, hackers, designers and innovators of tomorrow.
+      </td>
+      <td>
+        July 2020 - Present
+      </td>
+    </tr>
+  </tbody>
+</table>
+
