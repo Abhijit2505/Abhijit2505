@@ -27,7 +27,7 @@ My hobbies include **Graphic Designing**, **Reading Novels**, **Journals** and *
 
 ## My Work Experience
 
-<table border='3'>
+<table border='5'>
   <thead>
     <tr>
       <td>
