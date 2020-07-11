@@ -165,3 +165,46 @@ My hobbies include **Graphic Designing**, **Reading Novels**, **Journals** and *
     </tr>
   </tbody>
 </table>
+
+## Some Statistics Fun
+
+![Abhijit's github stats](https://github-readme-stats.vercel.app/api?username=Abhijit2505&show_icons=true&line_height=30)
+
+## Some Of My Projects
+
+<a href="https://github.com/Abhijit2505/Cat-Photo-Classification">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhijit2505&repo=Cat-Photo-Classification" />
+</a>
+<a href="https://github.com/Abhijit2505/portfolio">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhijit2505&repo=portfolio"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+## My Organizational Contributions
+
+<a href="https://github.com/Treasure-Code-Algorithm">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Treasure-Code-Algorithm&repo=Graph"/>
+</a>
+<a href="https://github.com/Treasure-Code-Algorithm">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Treasure-Code-Algorithm&repo=Linked-List"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/Treasure-Code-Algorithm">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Treasure-Code-Algorithm&repo=Generic-Tree"/>
+</a>
+<a href="https://github.com/Treasure-Code-Algorithm">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Treasure-Code-Algorithm&repo=Binary-Tree"/>
+</a>
