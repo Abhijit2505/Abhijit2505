@@ -156,7 +156,8 @@ My hobbies include **Graphic Designing**, **Reading Novels**, **Journals** and *
         (Incubate IND)
       </td>
       <td>
-          <li>INCIND Technology Fellowship is a unique and exclusive program for the coders, hackers, designers and innovators of tomorrow</li>
+  <ul>
+          <li>INCIND Technology Fellowship is a unique and exclusive program for the coders, hackers, designers and innovators of tomorrow</li></ul>
       </td>
       <td>
         July 2020 - Present
