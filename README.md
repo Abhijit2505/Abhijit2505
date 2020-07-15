@@ -179,7 +179,6 @@ My hobbies include **Graphic Designing**, **Reading Novels**, **Journals** and *
 <a href="https://sourcerer.io/abhijit2505"><img src="https://img.shields.io/badge/Dart-32%20commits-red.svg" alt=""></a>
 <a href="https://sourcerer.io/abhijit2505"><img src="https://img.shields.io/badge/CSS-78%20commits-purple.svg" alt=""></a>
 
-<img src = "https://github.com/Abhijit2505/Abhijit2505/blob/master/Capture%20github%20stats.PNG" height='750'>
 
 ## Some Of My Projects
 
