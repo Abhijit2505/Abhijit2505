@@ -169,7 +169,7 @@ My hobbies include **Graphic Designing**, **Reading Novels**, **Journals** and *
 ## Some Statistics Fun
 
 
-![Abhijit's github stats](https://github-readme-stats.vercel.app/api?username=Abhijit2505&show_icons=true&line_height=30)<br>
+![Abhijit's github stats](https://github-readme-stats.vercel.app/api?username=Abhijit2505&show_icons=true&line_height=30&title_color=000000&icon_color=ff0800&text_color=000000)<br>
 
 <a href="https://sourcerer.io/abhijit2505"><img src="https://img.shields.io/badge/C++-215%20commits-blue.svg" alt=""></a>
 <a href="https://sourcerer.io/abhijit2505"><img src="https://img.shields.io/badge/C-58%20commits-brown.svg" alt=""></a>
