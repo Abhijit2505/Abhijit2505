@@ -57,7 +57,7 @@ My hobbies include **Graphic Designing**, **Reading Novels**, **Journals** and *
         </ul>
       </td>
       <td>
-        Jun 2020 - Present
+        Jun 2020 - July 2020
       </td>
     </tr>
     <tr>
