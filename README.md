@@ -132,7 +132,7 @@ My hobbies include **Graphic Designing**, **Reading Novels**, **Journals** and *
         </ul>
       </td>
       <td>
-        May 2020 - Present
+        May 2020 - July 2020
       </td>
     </tr>
     <tr>
