@@ -171,10 +171,10 @@ My hobbies include **Graphic Designing**, **Reading Novels**, **Journals** and *
 
 ![Abhijit's github stats](https://github-readme-stats.vercel.app/api?username=Abhijit2505&show_icons=true&line_height=30&title_color=000000&icon_color=ff0800&text_color=000000)<br>
 
-<a href="https://sourcerer.io/abhijit2505"><img src="https://img.shields.io/badge/C++-215%20commits-blue.svg" alt=""></a>
+<a href="https://sourcerer.io/abhijit2505"><img src="https://img.shields.io/badge/C++-233%20commits-blue.svg" alt=""></a>
 <a href="https://sourcerer.io/abhijit2505"><img src="https://img.shields.io/badge/C-58%20commits-brown.svg" alt=""></a>
-<a href="https://sourcerer.io/abhijit2505"><img src="https://img.shields.io/badge/Python-192%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/abhijit2505"><img src="https://img.shields.io/badge/HTML-86%20commits-green.svg" alt=""></a>
+<a href="https://sourcerer.io/abhijit2505"><img src="https://img.shields.io/badge/Python-253%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/abhijit2505"><img src="https://img.shields.io/badge/HTML-110%20commits-green.svg" alt=""></a>
 <a href="https://sourcerer.io/abhijit2505"><img src="https://img.shields.io/badge/Dart-32%20commits-red.svg" alt=""></a>
 <a href="https://sourcerer.io/abhijit2505"><img src="https://img.shields.io/badge/CSS-78%20commits-purple.svg" alt=""></a>
 
