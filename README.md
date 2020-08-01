@@ -187,9 +187,7 @@ My hobbies include **Graphic Designing**, **Reading Novels**, **Journals** and *
 <a href="https://github.com/Abhijit2505/portfolio">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhijit2505&repo=portfolio"/>
 </a>
-<a href="https://github.com/Abhijit2505/The-Frontline-Warriors">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhijit2505&repo=The-Frontline-Warriors"/>
-</a>
+
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -202,8 +200,8 @@ My hobbies include **Graphic Designing**, **Reading Novels**, **Journals** and *
 
 ## My Organizational Contributions
 
-<a href="https://github.com/Treasure-Code-Algorithm">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Treasure-Code-Algorithm&repo=Graph"/>
+<a href="https://github.com/Abhijit2505/The-Frontline-Warriors">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhijit2505&repo=The-Frontline-Warriors"/>
 </a>
 <a href="https://github.com/Treasure-Code-Algorithm">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Treasure-Code-Algorithm&repo=Linked-List"/>
