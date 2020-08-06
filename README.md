@@ -178,24 +178,6 @@ My hobbies include **Graphic Designing**, **Reading Novels**, **Journals** and *
 <a href="https://sourcerer.io/abhijit2505"><img src="https://img.shields.io/badge/Dart-32%20commits-red.svg" alt=""></a>
 <a href="https://sourcerer.io/abhijit2505"><img src="https://img.shields.io/badge/CSS-78%20commits-purple.svg" alt=""></a>
 
-
-## Some Of My Projects
-
-<a href="https://github.com/Abhijit2505/Cat-Photo-Classification">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhijit2505&repo=Cat-Photo-Classification" />
-</a>
-<a href="https://github.com/Abhijit2505/portfolio">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhijit2505&repo=portfolio"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
 ## My Organizational Contributions
 
 <a href="https://github.com/Abhijit2505/The-Frontline-Warriors">
@@ -217,7 +199,7 @@ My hobbies include **Graphic Designing**, **Reading Novels**, **Journals** and *
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/Treasure-Code-Algorithm">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Treasure-Code-Algorithm&repo=Generic-Tree"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Treasure-Code-Algorithm&repo=Dynamic-programming"/>
 </a>
 <a href="https://github.com/Treasure-Code-Algorithm">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Treasure-Code-Algorithm&repo=Binary-Tree"/>
