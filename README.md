@@ -183,8 +183,8 @@ My hobbies include **Graphic Designing**, **Reading Novels**, **Journals** and *
 <a href="https://github.com/Abhijit2505/The-Frontline-Warriors">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhijit2505&repo=The-Frontline-Warriors"/>
 </a>
-<a href="https://github.com/Treasure-Code-Algorithm">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Treasure-Code-Algorithm&repo=Linked-List"/>
+<a href="https://github.com/Girlscript-Chapter-Bilaspur">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Girlscript-Chapter-Bilaspur&repo=Front-End-Hackathon-Resources"/>
 </a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -201,6 +201,6 @@ My hobbies include **Graphic Designing**, **Reading Novels**, **Journals** and *
 <a href="https://github.com/Treasure-Code-Algorithm">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Treasure-Code-Algorithm&repo=Dynamic-programming"/>
 </a>
-<a href="https://github.com/Treasure-Code-Algorithm">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Treasure-Code-Algorithm&repo=Binary-Tree"/>
+<a href="https://github.com/LetsUpgrade">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=LetsUpgrade&repo=Algorithmic-Treasure"/>
 </a>
