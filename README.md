@@ -198,8 +198,8 @@ My hobbies include **Graphic Designing**, **Reading Novels**, **Journals** and *
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="https://github.com/Treasure-Code-Algorithm">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Treasure-Code-Algorithm&repo=Dynamic-programming"/>
+<a href="https://github.com/Abhijit2505">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhijit2505&repo=eduAlgo"/>
 </a>
 <a href="https://github.com/LetsUpgrade">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=LetsUpgrade&repo=Algorithmic-Treasure"/>
