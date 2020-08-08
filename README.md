@@ -183,7 +183,7 @@ My hobbies include **Graphic Designing**, **Reading Novels**, **Journals** and *
 <a href="https://github.com/Abhijit2505/The-Frontline-Warriors">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhijit2505&repo=The-Frontline-Warriors"/>
 </a>
-<a href="https://github.com/Girlscript-Chapter-Bilaspur">
+<a href="https://github.com/Girlscript-Chapter-Bilaspur/Front-End-Hackathon-Resources">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Girlscript-Chapter-Bilaspur&repo=Front-End-Hackathon-Resources"/>
 </a>
 
@@ -198,7 +198,7 @@ My hobbies include **Graphic Designing**, **Reading Novels**, **Journals** and *
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="https://github.com/Abhijit2505">
+<a href="https://github.com/Abhijit2505/eduAlgo">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhijit2505&repo=eduAlgo"/>
 </a>
 <a href="https://github.com/LetsUpgrade">
