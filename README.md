@@ -37,33 +37,6 @@ My hobbies include **Graphic Designing**, **Reading Novels**, **Journals** and *
 <a href="https://sourcerer.io/abhijit2505"><img src="https://img.shields.io/badge/Dart-41%20commits-red.svg?style=for-the-badge" alt=""></a>
 <a href="https://sourcerer.io/abhijit2505"><img src="https://img.shields.io/badge/CSS-89%20commits-purple.svg?style=for-the-badge" alt=""></a>
 
-## My Organizational Contributions
-
-<a href="https://github.com/Abhijit2505/The-Frontline-Warriors">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhijit2505&repo=The-Frontline-Warriors"/>
-</a>
-<a href="https://github.com/Girlscript-Chapter-Bilaspur/Front-End-Hackathon-Resources">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Girlscript-Chapter-Bilaspur&repo=Front-End-Hackathon-Resources"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://github.com/Abhijit2505/eduAlgo">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhijit2505&repo=eduAlgo"/>
-</a>
-<a href="https://github.com/LetsUpgrade">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=LetsUpgrade&repo=Algorithmic-Treasure"/>
-</a>
-
 <!--START_SECTION_PROFILE_VIEWS:readme-info-->
 **✨ 89 people were here!**
 
@@ -125,3 +98,32 @@ MATLAB                   1 repos             ░░░░░░░░░░░�
 ```
 
 <!--END_SECTION_LANGUAGE:readme-info-->
+
+## My Organizational Contributions
+
+<a href="https://github.com/Abhijit2505/The-Frontline-Warriors">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhijit2505&repo=The-Frontline-Warriors"/>
+</a>
+<a href="https://github.com/Girlscript-Chapter-Bilaspur/Front-End-Hackathon-Resources">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Girlscript-Chapter-Bilaspur&repo=Front-End-Hackathon-Resources"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/Abhijit2505/eduAlgo">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhijit2505&repo=eduAlgo"/>
+</a>
+<a href="https://github.com/LetsUpgrade">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=LetsUpgrade&repo=Algorithmic-Treasure"/>
+</a>
+
+
