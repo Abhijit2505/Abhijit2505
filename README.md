@@ -63,3 +63,6 @@ My hobbies include **Graphic Designing**, **Reading Novels**, **Journals** and *
 <a href="https://github.com/LetsUpgrade">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=LetsUpgrade&repo=Algorithmic-Treasure"/>
 </a>
+
+<!--START_SECTION:readme-info-->
+<!--END_SECTION:readme-info-->
