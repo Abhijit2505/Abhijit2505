@@ -2,7 +2,7 @@
 # Hi There 👋 
 This is **Abhijit** here. Most probably you know me. If you know me then I am glad. Thank you for your time.
 
-- 💻 I’m currently working on **Android Portfolio**
+- 💻 I’m currently working on **Machine Learning Projects and Research Papers**
 
 - 📖 I’m currently learning **Flutter Development**
 
