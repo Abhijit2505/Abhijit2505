@@ -38,19 +38,19 @@ My hobbies include **Graphic Designing**, **Reading Novels**, **Journals** and *
 <a href="https://sourcerer.io/abhijit2505"><img src="https://img.shields.io/badge/CSS-89%20commits-purple.svg?style=for-the-badge" alt=""></a>
 
 <!--START_SECTION_PROFILE_VIEWS:readme-info-->
-**✨ 154 people were here!**
+**✨ 151 people were here!**
 
 
 <!--END_SECTION_PROFILE_VIEWS:readme-info-->
 
 <!--START_SECTION_LINES_OF_CODE:readme-info-->
-**From Hello World I have written 51.8 million Lines of Code ✍️**
+**From Hello World I have written 51.7 million Lines of Code ✍️**
 
 
 <!--END_SECTION_LINES_OF_CODE:readme-info-->
 
 <!--START_CONTRIBUTIONS:readme-info-->
-🏆 1,212 Contributions in year 2020
+**🏆 1,216 Contributions in year 2020**
 
 
 <!--END_CONTRIBUTIONS:readme-info-->
@@ -58,44 +58,46 @@ My hobbies include **Graphic Designing**, **Reading Novels**, **Journals** and *
 <!--START_SECTION_DAILY_COMMIT:readme-info-->
 **I'm an early 🐤** 
 
-```text
-🌞 Morning    550 commits    █████████████░░░░░░░░░░░░   53.24% 
-🌆 Daytime    230 commits    █████░░░░░░░░░░░░░░░░░░░░   22.27% 
-🌃 Evening    245 commits    ██████░░░░░░░░░░░░░░░░░░░   23.72% 
-🌙 Night      8 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.77%
-
-```
+| | | | |
+| --- | --- | --- | --- |
+|🌞 Morning                |552 commits         |![](https://via.placeholder.com/212x22/000000/000000?text=+)![](https://via.placeholder.com/188x22/b8b8b8/b8b8b8?=text=+)|53.28%|
+|🌆 Daytime                |230 commits         |![](https://via.placeholder.com/88x22/000000/000000?text=+)![](https://via.placeholder.com/312x22/b8b8b8/b8b8b8?=text=+)|22.2%|
+|🌃 Evening                |245 commits         |![](https://via.placeholder.com/96x22/000000/000000?text=+)![](https://via.placeholder.com/304x22/b8b8b8/b8b8b8?=text=+)|23.65%|
+|🌙 Night                  |9 commits           |![](https://via.placeholder.com/4x22/000000/000000?text=+)![](https://via.placeholder.com/396x22/b8b8b8/b8b8b8?=text=+)|0.87%|
+| | | | |
 
 <!--END_SECTION_DAILY_COMMIT:readme-info-->
 
 <!--START_SECTION_WEEKLY_COMMIT:readme-info-->
 📅 **I'm Most Productive on Saturdays** 
 
-```text
-Monday       158 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.06% 
-Tuesday      111 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.28% 
-Wednesday    169 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.17% 
-Thursday     107 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.87% 
-Friday       133 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.52% 
-Saturday     197 commits    █████░░░░░░░░░░░░░░░░░░░░   20.02% 
-Sunday       109 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.08%
-```
+| | | | |
+| --- | --- | --- | --- |
+|Monday                   |161 commits         |![](https://via.placeholder.com/64x22/000000/000000?text=+)![](https://via.placeholder.com/336x22/b8b8b8/b8b8b8?=text=+)|16.31%|
+|Tuesday                  |111 commits         |![](https://via.placeholder.com/44x22/000000/000000?text=+)![](https://via.placeholder.com/356x22/b8b8b8/b8b8b8?=text=+)|11.25%|
+|Wednesday                |169 commits         |![](https://via.placeholder.com/68x22/000000/000000?text=+)![](https://via.placeholder.com/332x22/b8b8b8/b8b8b8?=text=+)|17.12%|
+|Thursday                 |107 commits         |![](https://via.placeholder.com/44x22/000000/000000?text=+)![](https://via.placeholder.com/356x22/b8b8b8/b8b8b8?=text=+)|10.84%|
+|Friday                   |133 commits         |![](https://via.placeholder.com/52x22/000000/000000?text=+)![](https://via.placeholder.com/348x22/b8b8b8/b8b8b8?=text=+)|13.48%|
+|Saturday                 |197 commits         |![](https://via.placeholder.com/80x22/000000/000000?text=+)![](https://via.placeholder.com/320x22/b8b8b8/b8b8b8?=text=+)|19.96%|
+|Sunday                   |109 commits         |![](https://via.placeholder.com/44x22/000000/000000?text=+)![](https://via.placeholder.com/356x22/b8b8b8/b8b8b8?=text=+)|11.04%|
+| | | | |
 
 <!--END_SECTION_WEEKLY_COMMIT:readme-info-->
 
 <!--START_SECTION_LANGUAGE:readme-info-->
 **My 💖 languages C++** 
 
-```text
-C++                      12 repos            ██████░░░░░░░░░░░░░░░░░░░   25.53% 
-Jupyter Notebook         11 repos            █████░░░░░░░░░░░░░░░░░░░░   23.4% 
-Python                   8 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.02% 
-HTML                     8 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.02% 
-JavaScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.38% 
-Dart                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.26% 
-CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.26% 
-MATLAB                   1 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.13%
-```
+| | | | |
+| --- | --- | --- | --- |
+|C++                      |12 repos|            ![](https://via.placeholder.com/104x22/000000/000000?text=+)![](https://via.placeholder.com/296x22/b8b8b8/b8b8b8?=text=+)|25.53%|
+|Jupyter Notebook         |11 repos|            ![](https://via.placeholder.com/92x22/000000/000000?text=+)![](https://via.placeholder.com/308x22/b8b8b8/b8b8b8?=text=+)|23.4%|
+|Python                   |8 repos|             ![](https://via.placeholder.com/68x22/000000/000000?text=+)![](https://via.placeholder.com/332x22/b8b8b8/b8b8b8?=text=+)|17.02%|
+|HTML                     |8 repos|             ![](https://via.placeholder.com/68x22/000000/000000?text=+)![](https://via.placeholder.com/332x22/b8b8b8/b8b8b8?=text=+)|17.02%|
+|JavaScript               |3 repos|             ![](https://via.placeholder.com/24x22/000000/000000?text=+)![](https://via.placeholder.com/376x22/b8b8b8/b8b8b8?=text=+)|6.38%|
+|Dart                     |2 repos|             ![](https://via.placeholder.com/16x22/000000/000000?text=+)![](https://via.placeholder.com/384x22/b8b8b8/b8b8b8?=text=+)|4.26%|
+|CSS                      |2 repos|             ![](https://via.placeholder.com/16x22/000000/000000?text=+)![](https://via.placeholder.com/384x22/b8b8b8/b8b8b8?=text=+)|4.26%|
+|MATLAB                   |1 repos|             ![](https://via.placeholder.com/8x22/000000/000000?text=+)![](https://via.placeholder.com/392x22/b8b8b8/b8b8b8?=text=+)|2.13%|
+| | | | |
 
 <!--END_SECTION_LANGUAGE:readme-info-->
 
