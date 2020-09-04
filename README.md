@@ -38,19 +38,19 @@ My hobbies include **Graphic Designing**, **Reading Novels**, **Journals** and *
 <a href="https://sourcerer.io/abhijit2505"><img src="https://img.shields.io/badge/CSS-89%20commits-purple.svg?style=for-the-badge" alt=""></a>
 
 <!--START_SECTION_PROFILE_VIEWS:readme-info-->
-**✨ 197 people were here!**
+**✨ 209 people were here!**
 
 
 <!--END_SECTION_PROFILE_VIEWS:readme-info-->
 
 <!--START_SECTION_LINES_OF_CODE:readme-info-->
-**From Hello World I have written 52.0 million Lines of Code ✍️**
+**From Hello World I have written 52.1 million Lines of Code ✍️**
 
 
 <!--END_SECTION_LINES_OF_CODE:readme-info-->
 
 <!--START_CONTRIBUTIONS:readme-info-->
-**🏆 1,308 Contributions in year 2020**
+**🏆 1,320 Contributions in year 2020**
 
 
 <!--END_CONTRIBUTIONS:readme-info-->
@@ -60,10 +60,10 @@ My hobbies include **Graphic Designing**, **Reading Novels**, **Journals** and *
 
 | | | | |
 | --- | --- | --- | --- |
-|🌞 Morning                |547 commits         |![](https://via.placeholder.com/208x22/000000/000000?text=+)![](https://via.placeholder.com/192x22/b8b8b8/b8b8b8?=text=+)|51.6%|
-|🌆 Daytime                |230 commits         |![](https://via.placeholder.com/88x22/000000/000000?text=+)![](https://via.placeholder.com/312x22/b8b8b8/b8b8b8?=text=+)|21.7%|
-|🌃 Evening                |258 commits         |![](https://via.placeholder.com/96x22/000000/000000?text=+)![](https://via.placeholder.com/304x22/b8b8b8/b8b8b8?=text=+)|24.34%|
-|🌙 Night                  |25 commits          |![](https://via.placeholder.com/8x22/000000/000000?text=+)![](https://via.placeholder.com/392x22/b8b8b8/b8b8b8?=text=+)|2.36%|
+|🌞 Morning                |543 commits         |![](https://via.placeholder.com/204x22/000000/000000?text=+)![](https://via.placeholder.com/196x22/b8b8b8/b8b8b8?=text=+)|51.13%|
+|🌆 Daytime                |234 commits         |![](https://via.placeholder.com/88x22/000000/000000?text=+)![](https://via.placeholder.com/312x22/b8b8b8/b8b8b8?=text=+)|22.03%|
+|🌃 Evening                |259 commits         |![](https://via.placeholder.com/96x22/000000/000000?text=+)![](https://via.placeholder.com/304x22/b8b8b8/b8b8b8?=text=+)|24.39%|
+|🌙 Night                  |26 commits          |![](https://via.placeholder.com/8x22/000000/000000?text=+)![](https://via.placeholder.com/392x22/b8b8b8/b8b8b8?=text=+)|2.45%|
 | | | | |
 
 <!--END_SECTION_DAILY_COMMIT:readme-info-->
@@ -73,13 +73,13 @@ My hobbies include **Graphic Designing**, **Reading Novels**, **Journals** and *
 
 | | | | |
 | --- | --- | --- | --- |
-|Monday                   |158 commits         |![](https://via.placeholder.com/64x22/000000/000000?text=+)![](https://via.placeholder.com/336x22/b8b8b8/b8b8b8?=text=+)|15.96%|
-|Tuesday                  |108 commits         |![](https://via.placeholder.com/44x22/000000/000000?text=+)![](https://via.placeholder.com/356x22/b8b8b8/b8b8b8?=text=+)|10.91%|
-|Wednesday                |168 commits         |![](https://via.placeholder.com/68x22/000000/000000?text=+)![](https://via.placeholder.com/332x22/b8b8b8/b8b8b8?=text=+)|16.97%|
-|Thursday                 |110 commits         |![](https://via.placeholder.com/44x22/000000/000000?text=+)![](https://via.placeholder.com/356x22/b8b8b8/b8b8b8?=text=+)|11.11%|
-|Friday                   |126 commits         |![](https://via.placeholder.com/52x22/000000/000000?text=+)![](https://via.placeholder.com/348x22/b8b8b8/b8b8b8?=text=+)|12.73%|
-|Saturday                 |206 commits         |![](https://via.placeholder.com/84x22/000000/000000?text=+)![](https://via.placeholder.com/316x22/b8b8b8/b8b8b8?=text=+)|20.81%|
-|Sunday                   |114 commits         |![](https://via.placeholder.com/48x22/000000/000000?text=+)![](https://via.placeholder.com/352x22/b8b8b8/b8b8b8?=text=+)|11.52%|
+|Monday                   |158 commits         |![](https://via.placeholder.com/64x22/000000/000000?text=+)![](https://via.placeholder.com/336x22/b8b8b8/b8b8b8?=text=+)|15.93%|
+|Tuesday                  |108 commits         |![](https://via.placeholder.com/44x22/000000/000000?text=+)![](https://via.placeholder.com/356x22/b8b8b8/b8b8b8?=text=+)|10.89%|
+|Wednesday                |168 commits         |![](https://via.placeholder.com/68x22/000000/000000?text=+)![](https://via.placeholder.com/332x22/b8b8b8/b8b8b8?=text=+)|16.94%|
+|Thursday                 |116 commits         |![](https://via.placeholder.com/48x22/000000/000000?text=+)![](https://via.placeholder.com/352x22/b8b8b8/b8b8b8?=text=+)|11.69%|
+|Friday                   |126 commits         |![](https://via.placeholder.com/52x22/000000/000000?text=+)![](https://via.placeholder.com/348x22/b8b8b8/b8b8b8?=text=+)|12.7%|
+|Saturday                 |202 commits         |![](https://via.placeholder.com/80x22/000000/000000?text=+)![](https://via.placeholder.com/320x22/b8b8b8/b8b8b8?=text=+)|20.36%|
+|Sunday                   |114 commits         |![](https://via.placeholder.com/44x22/000000/000000?text=+)![](https://via.placeholder.com/356x22/b8b8b8/b8b8b8?=text=+)|11.49%|
 | | | | |
 
 <!--END_SECTION_WEEKLY_COMMIT:readme-info-->
@@ -89,14 +89,14 @@ My hobbies include **Graphic Designing**, **Reading Novels**, **Journals** and *
 
 | | | | |
 | --- | --- | --- | --- |
-|C++                      |12 repos|            ![](https://via.placeholder.com/96x22/000000/000000?text=+)![](https://via.placeholder.com/304x22/b8b8b8/b8b8b8?=text=+)|24.0%|
-|Jupyter Notebook         |11 repos|            ![](https://via.placeholder.com/88x22/000000/000000?text=+)![](https://via.placeholder.com/312x22/b8b8b8/b8b8b8?=text=+)|22.0%|
-|Python                   |8 repos|             ![](https://via.placeholder.com/64x22/000000/000000?text=+)![](https://via.placeholder.com/336x22/b8b8b8/b8b8b8?=text=+)|16.0%|
-|HTML                     |8 repos|             ![](https://via.placeholder.com/64x22/000000/000000?text=+)![](https://via.placeholder.com/336x22/b8b8b8/b8b8b8?=text=+)|16.0%|
-|JavaScript               |5 repos|             ![](https://via.placeholder.com/40x22/000000/000000?text=+)![](https://via.placeholder.com/360x22/b8b8b8/b8b8b8?=text=+)|10.0%|
-|Dart                     |3 repos|             ![](https://via.placeholder.com/24x22/000000/000000?text=+)![](https://via.placeholder.com/376x22/b8b8b8/b8b8b8?=text=+)|6.0%|
-|CSS                      |2 repos|             ![](https://via.placeholder.com/16x22/000000/000000?text=+)![](https://via.placeholder.com/384x22/b8b8b8/b8b8b8?=text=+)|4.0%|
-|MATLAB                   |1 repos|             ![](https://via.placeholder.com/8x22/000000/000000?text=+)![](https://via.placeholder.com/392x22/b8b8b8/b8b8b8?=text=+)|2.0%|
+|C++                      |12 repos|            ![](https://via.placeholder.com/96x22/000000/000000?text=+)![](https://via.placeholder.com/304x22/b8b8b8/b8b8b8?=text=+)|23.53%|
+|Jupyter Notebook         |11 repos|            ![](https://via.placeholder.com/88x22/000000/000000?text=+)![](https://via.placeholder.com/312x22/b8b8b8/b8b8b8?=text=+)|21.57%|
+|Python                   |9 repos|             ![](https://via.placeholder.com/72x22/000000/000000?text=+)![](https://via.placeholder.com/328x22/b8b8b8/b8b8b8?=text=+)|17.65%|
+|HTML                     |8 repos|             ![](https://via.placeholder.com/64x22/000000/000000?text=+)![](https://via.placeholder.com/336x22/b8b8b8/b8b8b8?=text=+)|15.69%|
+|JavaScript               |5 repos|             ![](https://via.placeholder.com/40x22/000000/000000?text=+)![](https://via.placeholder.com/360x22/b8b8b8/b8b8b8?=text=+)|9.8%|
+|Dart                     |3 repos|             ![](https://via.placeholder.com/24x22/000000/000000?text=+)![](https://via.placeholder.com/376x22/b8b8b8/b8b8b8?=text=+)|5.88%|
+|CSS                      |2 repos|             ![](https://via.placeholder.com/16x22/000000/000000?text=+)![](https://via.placeholder.com/384x22/b8b8b8/b8b8b8?=text=+)|3.92%|
+|MATLAB                   |1 repos|             ![](https://via.placeholder.com/8x22/000000/000000?text=+)![](https://via.placeholder.com/392x22/b8b8b8/b8b8b8?=text=+)|1.96%|
 | | | | |
 
 <!--END_SECTION_LANGUAGE:readme-info-->
