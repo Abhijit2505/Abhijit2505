@@ -38,19 +38,19 @@ My hobbies include **Graphic Designing**, **Reading Novels**, **Journals** and *
 <a href="https://sourcerer.io/abhijit2505"><img src="https://img.shields.io/badge/CSS-89%20commits-purple.svg?style=for-the-badge" alt=""></a>
 
 <!--START_SECTION_PROFILE_VIEWS:readme-info-->
-**✨ 64 people were here!**
+**✨ 73 people were here!**
 
 
 <!--END_SECTION_PROFILE_VIEWS:readme-info-->
 
 <!--START_SECTION_LINES_OF_CODE:readme-info-->
-**From Hello World I have written 52.0 million Lines of Code ✍️**
+**From Hello World I have written 52.3 million Lines of Code ✍️**
 
 
 <!--END_SECTION_LINES_OF_CODE:readme-info-->
 
 <!--START_CONTRIBUTIONS:readme-info-->
-**🏆 1,347 Contributions in year 2020**
+**🏆 1,348 Contributions in year 2020**
 
 
 <!--END_CONTRIBUTIONS:readme-info-->
@@ -60,10 +60,10 @@ My hobbies include **Graphic Designing**, **Reading Novels**, **Journals** and *
 
 | | | | |
 | --- | --- | --- | --- |
-|🌞 Morning                |545 commits         |![](https://via.placeholder.com/204x22/000000/000000?text=+)![](https://via.placeholder.com/196x22/b8b8b8/b8b8b8?=text=+)|50.7%|
-|🌆 Daytime                |236 commits         |![](https://via.placeholder.com/88x22/000000/000000?text=+)![](https://via.placeholder.com/312x22/b8b8b8/b8b8b8?=text=+)|21.95%|
-|🌃 Evening                |262 commits         |![](https://via.placeholder.com/96x22/000000/000000?text=+)![](https://via.placeholder.com/304x22/b8b8b8/b8b8b8?=text=+)|24.37%|
-|🌙 Night                  |32 commits          |![](https://via.placeholder.com/12x22/000000/000000?text=+)![](https://via.placeholder.com/388x22/b8b8b8/b8b8b8?=text=+)|2.98%|
+|🌞 Morning                |545 commits         |![](https://via.placeholder.com/204x22/000000/000000?text=+)![](https://via.placeholder.com/196x22/b8b8b8/b8b8b8?=text=+)|50.65%|
+|🌆 Daytime                |236 commits         |![](https://via.placeholder.com/88x22/000000/000000?text=+)![](https://via.placeholder.com/312x22/b8b8b8/b8b8b8?=text=+)|21.93%|
+|🌃 Evening                |262 commits         |![](https://via.placeholder.com/96x22/000000/000000?text=+)![](https://via.placeholder.com/304x22/b8b8b8/b8b8b8?=text=+)|24.35%|
+|🌙 Night                  |33 commits          |![](https://via.placeholder.com/12x22/000000/000000?text=+)![](https://via.placeholder.com/388x22/b8b8b8/b8b8b8?=text=+)|3.07%|
 | | | | |
 
 <!--END_SECTION_DAILY_COMMIT:readme-info-->
@@ -73,13 +73,13 @@ My hobbies include **Graphic Designing**, **Reading Novels**, **Journals** and *
 
 | | | | |
 | --- | --- | --- | --- |
-|Monday                   |159 commits         |![](https://via.placeholder.com/64x22/000000/000000?text=+)![](https://via.placeholder.com/336x22/b8b8b8/b8b8b8?=text=+)|15.82%|
-|Tuesday                  |113 commits         |![](https://via.placeholder.com/44x22/000000/000000?text=+)![](https://via.placeholder.com/356x22/b8b8b8/b8b8b8?=text=+)|11.24%|
-|Wednesday                |169 commits         |![](https://via.placeholder.com/68x22/000000/000000?text=+)![](https://via.placeholder.com/332x22/b8b8b8/b8b8b8?=text=+)|16.82%|
-|Thursday                 |116 commits         |![](https://via.placeholder.com/48x22/000000/000000?text=+)![](https://via.placeholder.com/352x22/b8b8b8/b8b8b8?=text=+)|11.54%|
-|Friday                   |127 commits         |![](https://via.placeholder.com/52x22/000000/000000?text=+)![](https://via.placeholder.com/348x22/b8b8b8/b8b8b8?=text=+)|12.64%|
-|Saturday                 |204 commits         |![](https://via.placeholder.com/80x22/000000/000000?text=+)![](https://via.placeholder.com/320x22/b8b8b8/b8b8b8?=text=+)|20.3%|
-|Sunday                   |117 commits         |![](https://via.placeholder.com/48x22/000000/000000?text=+)![](https://via.placeholder.com/352x22/b8b8b8/b8b8b8?=text=+)|11.64%|
+|Monday                   |159 commits         |![](https://via.placeholder.com/64x22/000000/000000?text=+)![](https://via.placeholder.com/336x22/b8b8b8/b8b8b8?=text=+)|15.81%|
+|Tuesday                  |113 commits         |![](https://via.placeholder.com/44x22/000000/000000?text=+)![](https://via.placeholder.com/356x22/b8b8b8/b8b8b8?=text=+)|11.23%|
+|Wednesday                |169 commits         |![](https://via.placeholder.com/68x22/000000/000000?text=+)![](https://via.placeholder.com/332x22/b8b8b8/b8b8b8?=text=+)|16.8%|
+|Thursday                 |117 commits         |![](https://via.placeholder.com/48x22/000000/000000?text=+)![](https://via.placeholder.com/352x22/b8b8b8/b8b8b8?=text=+)|11.63%|
+|Friday                   |127 commits         |![](https://via.placeholder.com/52x22/000000/000000?text=+)![](https://via.placeholder.com/348x22/b8b8b8/b8b8b8?=text=+)|12.62%|
+|Saturday                 |204 commits         |![](https://via.placeholder.com/80x22/000000/000000?text=+)![](https://via.placeholder.com/320x22/b8b8b8/b8b8b8?=text=+)|20.28%|
+|Sunday                   |117 commits         |![](https://via.placeholder.com/48x22/000000/000000?text=+)![](https://via.placeholder.com/352x22/b8b8b8/b8b8b8?=text=+)|11.63%|
 | | | | |
 
 <!--END_SECTION_WEEKLY_COMMIT:readme-info-->
