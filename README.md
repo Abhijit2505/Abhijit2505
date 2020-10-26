@@ -125,7 +125,7 @@ My hobbies include **Graphic Designing**, **Reading Novels**, **Journals** and *
 <a href="https://github.com/Abhijit2505/eduAlgo">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhijit2505&repo=eduAlgo"/>
 </a>
-<a href="https://github.com/LetsUpgrade">
+<a href="https://github.com/LetsUpgrade/Algorithmic-Treasure">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=LetsUpgrade&repo=Algorithmic-Treasure"/>
 </a>
 
