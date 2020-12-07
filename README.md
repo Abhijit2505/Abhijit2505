@@ -1,13 +1,13 @@
 # Hi There 👋 
 This is **Abhijit** here. Most probably you know me. If you know me then I am glad. Thank you for your time.
 
-- 💻 I’m currently working on **Machine Learning Projects and Research Papers**
+- 💻 I’m currently working on **my own start-up**, @eduAlgo
 
-- 📖 I’m currently learning **Flutter Development**
+- 📖 I’m currently learning **Django Development & Software Architecture**
 
 - 👯 I’m looking to collaborate on **OpenSourced** projects on **ML/DL**
 
-- 🤔 I’m looking for help with my **Website Development** skills.
+- 🤔 I’m looking for help with my **Flutter Development** skills.
 
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/abhijit-tripathy-415912187/">LinkedIn</a> or <a href="https://twitter.com/AbhijitTripat13">Twitter</a>  or <a href="mailto:abhijittripathy99@gmail.com">Email</a>
 
