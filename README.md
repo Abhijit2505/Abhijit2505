@@ -1,4 +1,3 @@
-![](https://github.com/Abhijit2505/Abhijit2505/blob/master/Cover%20Pics.png)
 # Hi There 👋 
 This is **Abhijit** here. Most probably you know me. If you know me then I am glad. Thank you for your time.
 
