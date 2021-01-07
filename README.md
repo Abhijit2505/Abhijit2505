@@ -37,7 +37,7 @@ My hobbies include **Graphic Designing**, **Reading Novels**, **Journals** and *
 <a href="https://sourcerer.io/abhijit2505"><img src="https://img.shields.io/badge/CSS-89%20commits-purple.svg?style=for-the-badge" alt=""></a>
 
 <!--START_SECTION_PROFILE_VIEWS:readme-info-->
-**✨ 15 people were here!**
+**✨ 17 people were here!**
 
 
 <!--END_SECTION_PROFILE_VIEWS:readme-info-->
@@ -49,7 +49,7 @@ My hobbies include **Graphic Designing**, **Reading Novels**, **Journals** and *
 <!--END_SECTION_LINES_OF_CODE:readme-info-->
 
 <!--START_CONTRIBUTIONS:readme-info-->
-**🏆 10 Contributions in year 2021**
+**🏆 18 Contributions in year 2021**
 
 
 <!--END_CONTRIBUTIONS:readme-info-->
@@ -74,9 +74,9 @@ My hobbies include **Graphic Designing**, **Reading Novels**, **Journals** and *
 | --- | --- | --- | --- |
 |Monday                   |145 commits         |![](https://via.placeholder.com/68x22/000000/000000?text=+)![](https://via.placeholder.com/332x22/b8b8b8/b8b8b8?=text=+)|16.94%|
 |Tuesday                  |103 commits         |![](https://via.placeholder.com/48x22/000000/000000?text=+)![](https://via.placeholder.com/352x22/b8b8b8/b8b8b8?=text=+)|12.03%|
-|Wednesday                |113 commits         |![](https://via.placeholder.com/52x22/000000/000000?text=+)![](https://via.placeholder.com/348x22/b8b8b8/b8b8b8?=text=+)|13.2%|
+|Wednesday                |114 commits         |![](https://via.placeholder.com/52x22/000000/000000?text=+)![](https://via.placeholder.com/348x22/b8b8b8/b8b8b8?=text=+)|13.32%|
 |Thursday                 |129 commits         |![](https://via.placeholder.com/60x22/000000/000000?text=+)![](https://via.placeholder.com/340x22/b8b8b8/b8b8b8?=text=+)|15.07%|
-|Friday                   |119 commits         |![](https://via.placeholder.com/56x22/000000/000000?text=+)![](https://via.placeholder.com/344x22/b8b8b8/b8b8b8?=text=+)|13.9%|
+|Friday                   |118 commits         |![](https://via.placeholder.com/56x22/000000/000000?text=+)![](https://via.placeholder.com/344x22/b8b8b8/b8b8b8?=text=+)|13.79%|
 |Saturday                 |129 commits         |![](https://via.placeholder.com/60x22/000000/000000?text=+)![](https://via.placeholder.com/340x22/b8b8b8/b8b8b8?=text=+)|15.07%|
 |Sunday                   |118 commits         |![](https://via.placeholder.com/56x22/000000/000000?text=+)![](https://via.placeholder.com/344x22/b8b8b8/b8b8b8?=text=+)|13.79%|
 | | | | |
