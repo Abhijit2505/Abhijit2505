@@ -106,31 +106,4 @@ I have authored a few books, do check them out below,
 
 <!--END_SECTION_LANGUAGE:readme-info-->
 
-## My Organizational Contributions
-
-<a href="https://github.com/Abhijit2505/The-Frontline-Warriors">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhijit2505&repo=The-Frontline-Warriors"/>
-</a>
-<a href="https://github.com/Girlscript-Chapter-Bilaspur/Front-End-Hackathon-Resources">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Girlscript-Chapter-Bilaspur&repo=Front-End-Hackathon-Resources"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://github.com/Abhijit2505/eduAlgo">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhijit2505&repo=eduAlgo"/>
-</a>
-<a href="https://github.com/LetsUpgrade/Algorithmic-Treasure">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=LetsUpgrade&repo=Algorithmic-Treasure"/>
-</a>
-
 
