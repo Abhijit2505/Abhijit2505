@@ -24,6 +24,11 @@ My interest lies in writing both **technical/non-technical blogs** and **teachin
 
 My hobbies include **Graphic Designing**, **Reading Novels**, **Journals** and **Listening to Music**.
 
+## My Books
+I have authored a few books, do check them out below,
+
+<a href="https://www.amazon.in/dp/B08S3BVQKF"><img src = "https://github.com/Abhijit2505/Abhijit2505/blob/master/Python%20-%20book%2001.png" height=200><br>A beginner's guide to Python programming</a>
+
 ## Some Statistics Fun
 
 
