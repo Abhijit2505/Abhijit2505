@@ -59,6 +59,11 @@ I have authored a few books, do check them out below,
 
 <!--END_CONTRIBUTIONS:readme-info-->
 
+## My Trophies
+
+<img width=800 src="https://github-profile-trophy.vercel.app/?username=Abhijit2505&column=7&theme=gruvbox&no-frame=true"/>
+
+
 <!--START_SECTION_DAILY_COMMIT:readme-info-->
 **I'm an early 🐤** 
 
