@@ -42,19 +42,19 @@ I have authored a few books, do check them out below,
 <a href="https://sourcerer.io/abhijit2505"><img src="https://img.shields.io/badge/CSS-89%20commits-purple.svg?style=for-the-badge" alt=""></a>
 
 <!--START_SECTION_PROFILE_VIEWS:readme-info-->
-**✨ 20 people were here!**
+**✨ 24 people were here!**
 
 
 <!--END_SECTION_PROFILE_VIEWS:readme-info-->
 
 <!--START_SECTION_LINES_OF_CODE:readme-info-->
-**From Hello World I have written 6.2 million Lines of Code ✍️**
+**From Hello World I have written 6.0 million Lines of Code ✍️**
 
 
 <!--END_SECTION_LINES_OF_CODE:readme-info-->
 
 <!--START_CONTRIBUTIONS:readme-info-->
-**🏆 179 Contributions in year 2021**
+**🏆 183 Contributions in year 2021**
 
 
 <!--END_CONTRIBUTIONS:readme-info-->
@@ -85,9 +85,9 @@ I have authored a few books, do check them out below,
 |Monday                   |129 commits         |![](https://via.placeholder.com/64x22/000000/000000?text=+)![](https://via.placeholder.com/336x22/b8b8b8/b8b8b8?=text=+)|16.43%|
 |Tuesday                  |103 commits         |![](https://via.placeholder.com/52x22/000000/000000?text=+)![](https://via.placeholder.com/348x22/b8b8b8/b8b8b8?=text=+)|13.12%|
 |Wednesday                |115 commits         |![](https://via.placeholder.com/60x22/000000/000000?text=+)![](https://via.placeholder.com/340x22/b8b8b8/b8b8b8?=text=+)|14.65%|
-|Thursday                 |123 commits         |![](https://via.placeholder.com/64x22/000000/000000?text=+)![](https://via.placeholder.com/336x22/b8b8b8/b8b8b8?=text=+)|15.67%|
+|Thursday                 |122 commits         |![](https://via.placeholder.com/64x22/000000/000000?text=+)![](https://via.placeholder.com/336x22/b8b8b8/b8b8b8?=text=+)|15.54%|
 |Friday                   |118 commits         |![](https://via.placeholder.com/60x22/000000/000000?text=+)![](https://via.placeholder.com/340x22/b8b8b8/b8b8b8?=text=+)|15.03%|
-|Saturday                 |99 commits          |![](https://via.placeholder.com/52x22/000000/000000?text=+)![](https://via.placeholder.com/348x22/b8b8b8/b8b8b8?=text=+)|12.61%|
+|Saturday                 |100 commits         |![](https://via.placeholder.com/52x22/000000/000000?text=+)![](https://via.placeholder.com/348x22/b8b8b8/b8b8b8?=text=+)|12.74%|
 |Sunday                   |98 commits          |![](https://via.placeholder.com/48x22/000000/000000?text=+)![](https://via.placeholder.com/352x22/b8b8b8/b8b8b8?=text=+)|12.48%|
 | | | | |
 
