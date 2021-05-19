@@ -42,7 +42,7 @@ I have authored a few books, do check them out below,
 <a href="https://sourcerer.io/abhijit2505"><img src="https://img.shields.io/badge/CSS-89%20commits-purple.svg?style=for-the-badge" alt=""></a>
 
 <!--START_SECTION_PROFILE_VIEWS:readme-info-->
-**✨ 12 people were here!**
+**✨ 9 people were here!**
 
 
 <!--END_SECTION_PROFILE_VIEWS:readme-info-->
@@ -54,7 +54,7 @@ I have authored a few books, do check them out below,
 <!--END_SECTION_LINES_OF_CODE:readme-info-->
 
 <!--START_CONTRIBUTIONS:readme-info-->
-**🏆 499 Contributions in year 2021**
+**🏆 505 Contributions in year 2021**
 
 
 <!--END_CONTRIBUTIONS:readme-info-->
@@ -83,12 +83,12 @@ I have authored a few books, do check them out below,
 | | | | |
 | --- | --- | --- | --- |
 |Monday                   |107 commits         |![](https://via.placeholder.com/64x22/000000/000000?text=+)![](https://via.placeholder.com/336x22/b8b8b8/b8b8b8?=text=+)|15.55%|
-|Tuesday                  |94 commits          |![](https://via.placeholder.com/56x22/000000/000000?text=+)![](https://via.placeholder.com/344x22/b8b8b8/b8b8b8?=text=+)|13.66%|
+|Tuesday                  |95 commits          |![](https://via.placeholder.com/56x22/000000/000000?text=+)![](https://via.placeholder.com/344x22/b8b8b8/b8b8b8?=text=+)|13.81%|
 |Wednesday                |105 commits         |![](https://via.placeholder.com/60x22/000000/000000?text=+)![](https://via.placeholder.com/340x22/b8b8b8/b8b8b8?=text=+)|15.26%|
 |Thursday                 |90 commits          |![](https://via.placeholder.com/52x22/000000/000000?text=+)![](https://via.placeholder.com/348x22/b8b8b8/b8b8b8?=text=+)|13.08%|
 |Friday                   |119 commits         |![](https://via.placeholder.com/68x22/000000/000000?text=+)![](https://via.placeholder.com/332x22/b8b8b8/b8b8b8?=text=+)|17.3%|
 |Saturday                 |95 commits          |![](https://via.placeholder.com/56x22/000000/000000?text=+)![](https://via.placeholder.com/344x22/b8b8b8/b8b8b8?=text=+)|13.81%|
-|Sunday                   |78 commits          |![](https://via.placeholder.com/44x22/000000/000000?text=+)![](https://via.placeholder.com/356x22/b8b8b8/b8b8b8?=text=+)|11.34%|
+|Sunday                   |77 commits          |![](https://via.placeholder.com/44x22/000000/000000?text=+)![](https://via.placeholder.com/356x22/b8b8b8/b8b8b8?=text=+)|11.19%|
 | | | | |
 
 <!--END_SECTION_WEEKLY_COMMIT:readme-info-->
@@ -98,16 +98,16 @@ I have authored a few books, do check them out below,
 
 | | | | |
 | --- | --- | --- | --- |
-|C++                      |25 repos|            ![](https://via.placeholder.com/116x22/000000/000000?text=+)![](https://via.placeholder.com/284x22/b8b8b8/b8b8b8?=text=+)|29.07%|
-|HTML                     |19 repos|            ![](https://via.placeholder.com/88x22/000000/000000?text=+)![](https://via.placeholder.com/312x22/b8b8b8/b8b8b8?=text=+)|22.09%|
-|Jupyter Notebook         |13 repos|            ![](https://via.placeholder.com/60x22/000000/000000?text=+)![](https://via.placeholder.com/340x22/b8b8b8/b8b8b8?=text=+)|15.12%|
-|Python                   |11 repos|            ![](https://via.placeholder.com/52x22/000000/000000?text=+)![](https://via.placeholder.com/348x22/b8b8b8/b8b8b8?=text=+)|12.79%|
-|JavaScript               |8 repos|             ![](https://via.placeholder.com/36x22/000000/000000?text=+)![](https://via.placeholder.com/364x22/b8b8b8/b8b8b8?=text=+)|9.3%|
-|Dart                     |4 repos|             ![](https://via.placeholder.com/20x22/000000/000000?text=+)![](https://via.placeholder.com/380x22/b8b8b8/b8b8b8?=text=+)|4.65%|
-|CSS                      |3 repos|             ![](https://via.placeholder.com/12x22/000000/000000?text=+)![](https://via.placeholder.com/388x22/b8b8b8/b8b8b8?=text=+)|3.49%|
-|MATLAB                   |1 repos|             ![](https://via.placeholder.com/4x22/000000/000000?text=+)![](https://via.placeholder.com/396x22/b8b8b8/b8b8b8?=text=+)|1.16%|
-|SCSS                     |1 repos|             ![](https://via.placeholder.com/4x22/000000/000000?text=+)![](https://via.placeholder.com/396x22/b8b8b8/b8b8b8?=text=+)|1.16%|
-|Go                       |1 repos|             ![](https://via.placeholder.com/4x22/000000/000000?text=+)![](https://via.placeholder.com/396x22/b8b8b8/b8b8b8?=text=+)|1.16%|
+|C++                      |25 repos|            ![](https://via.placeholder.com/116x22/000000/000000?text=+)![](https://via.placeholder.com/284x22/b8b8b8/b8b8b8?=text=+)|28.74%|
+|HTML                     |19 repos|            ![](https://via.placeholder.com/88x22/000000/000000?text=+)![](https://via.placeholder.com/312x22/b8b8b8/b8b8b8?=text=+)|21.84%|
+|Jupyter Notebook         |13 repos|            ![](https://via.placeholder.com/60x22/000000/000000?text=+)![](https://via.placeholder.com/340x22/b8b8b8/b8b8b8?=text=+)|14.94%|
+|Python                   |11 repos|            ![](https://via.placeholder.com/52x22/000000/000000?text=+)![](https://via.placeholder.com/348x22/b8b8b8/b8b8b8?=text=+)|12.64%|
+|JavaScript               |8 repos|             ![](https://via.placeholder.com/36x22/000000/000000?text=+)![](https://via.placeholder.com/364x22/b8b8b8/b8b8b8?=text=+)|9.2%|
+|Dart                     |4 repos|             ![](https://via.placeholder.com/20x22/000000/000000?text=+)![](https://via.placeholder.com/380x22/b8b8b8/b8b8b8?=text=+)|4.6%|
+|CSS                      |4 repos|             ![](https://via.placeholder.com/20x22/000000/000000?text=+)![](https://via.placeholder.com/380x22/b8b8b8/b8b8b8?=text=+)|4.6%|
+|MATLAB                   |1 repos|             ![](https://via.placeholder.com/4x22/000000/000000?text=+)![](https://via.placeholder.com/396x22/b8b8b8/b8b8b8?=text=+)|1.15%|
+|SCSS                     |1 repos|             ![](https://via.placeholder.com/4x22/000000/000000?text=+)![](https://via.placeholder.com/396x22/b8b8b8/b8b8b8?=text=+)|1.15%|
+|Go                       |1 repos|             ![](https://via.placeholder.com/4x22/000000/000000?text=+)![](https://via.placeholder.com/396x22/b8b8b8/b8b8b8?=text=+)|1.15%|
 | | | | |
 
 <!--END_SECTION_LANGUAGE:readme-info-->
