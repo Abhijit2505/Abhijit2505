@@ -54,7 +54,7 @@ I have authored a few books, do check them out below,
 <!--END_SECTION_LINES_OF_CODE:readme-info-->
 
 <!--START_CONTRIBUTIONS:readme-info-->
-**🏆 684 Contributions in year 2021**
+**🏆 685 Contributions in year 2021**
 
 
 <!--END_CONTRIBUTIONS:readme-info-->
@@ -94,15 +94,15 @@ I have authored a few books, do check them out below,
 <!--END_SECTION_WEEKLY_COMMIT:readme-info-->
 
 <!--START_SECTION_LANGUAGE:readme-info-->
-**My 💖 languages C++** 
+**My 💖 languages HTML** 
 
 | | | | |
 | --- | --- | --- | --- |
-|C++                      |21 repos|            ![](https://via.placeholder.com/96x22/000000/000000?text=+)![](https://via.placeholder.com/304x22/b8b8b8/b8b8b8?=text=+)|23.6%|
 |HTML                     |21 repos|            ![](https://via.placeholder.com/96x22/000000/000000?text=+)![](https://via.placeholder.com/304x22/b8b8b8/b8b8b8?=text=+)|23.6%|
+|C++                      |20 repos|            ![](https://via.placeholder.com/88x22/000000/000000?text=+)![](https://via.placeholder.com/312x22/b8b8b8/b8b8b8?=text=+)|22.47%|
 |Jupyter Notebook         |13 repos|            ![](https://via.placeholder.com/60x22/000000/000000?text=+)![](https://via.placeholder.com/340x22/b8b8b8/b8b8b8?=text=+)|14.61%|
+|Python                   |10 repos|            ![](https://via.placeholder.com/44x22/000000/000000?text=+)![](https://via.placeholder.com/356x22/b8b8b8/b8b8b8?=text=+)|11.24%|
 |JavaScript               |10 repos|            ![](https://via.placeholder.com/44x22/000000/000000?text=+)![](https://via.placeholder.com/356x22/b8b8b8/b8b8b8?=text=+)|11.24%|
-|Python                   |9 repos|             ![](https://via.placeholder.com/40x22/000000/000000?text=+)![](https://via.placeholder.com/360x22/b8b8b8/b8b8b8?=text=+)|10.11%|
 |CSS                      |7 repos|             ![](https://via.placeholder.com/32x22/000000/000000?text=+)![](https://via.placeholder.com/368x22/b8b8b8/b8b8b8?=text=+)|7.87%|
 |Dart                     |5 repos|             ![](https://via.placeholder.com/24x22/000000/000000?text=+)![](https://via.placeholder.com/376x22/b8b8b8/b8b8b8?=text=+)|5.62%|
 |MATLAB                   |1 repos|             ![](https://via.placeholder.com/4x22/000000/000000?text=+)![](https://via.placeholder.com/396x22/b8b8b8/b8b8b8?=text=+)|1.12%|
