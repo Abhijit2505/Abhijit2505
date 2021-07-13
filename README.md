@@ -48,13 +48,13 @@ I have authored a few books, do check them out below,
 <!--END_SECTION_PROFILE_VIEWS:readme-info-->
 
 <!--START_SECTION_LINES_OF_CODE:readme-info-->
-**From Hello World I have written 7.9 million Lines of Code ✍️**
+**From Hello World I have written 7.8 million Lines of Code ✍️**
 
 
 <!--END_SECTION_LINES_OF_CODE:readme-info-->
 
 <!--START_CONTRIBUTIONS:readme-info-->
-**🏆 697 Contributions in year 2021**
+**🏆 698 Contributions in year 2021**
 
 
 <!--END_CONTRIBUTIONS:readme-info-->
