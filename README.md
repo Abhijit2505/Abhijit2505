@@ -42,7 +42,7 @@ I have authored a few books, do check them out below,
 <a href="https://sourcerer.io/abhijit2505"><img src="https://img.shields.io/badge/CSS-89%20commits-purple.svg?style=for-the-badge" alt=""></a>
 
 <!--START_SECTION_PROFILE_VIEWS:readme-info-->
-**✨ 4 people were here!**
+**✨ 6 people were here!**
 
 
 <!--END_SECTION_PROFILE_VIEWS:readme-info-->
@@ -54,7 +54,7 @@ I have authored a few books, do check them out below,
 <!--END_SECTION_LINES_OF_CODE:readme-info-->
 
 <!--START_CONTRIBUTIONS:readme-info-->
-**🏆 701 Contributions in year 2021**
+**🏆 702 Contributions in year 2021**
 
 
 <!--END_CONTRIBUTIONS:readme-info-->
