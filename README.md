@@ -54,7 +54,7 @@ I have authored a few books, do check them out below,
 <!--END_SECTION_LINES_OF_CODE:readme-info-->
 
 <!--START_CONTRIBUTIONS:readme-info-->
-**🏆 810 Contributions in year 2021**
+**🏆 823 Contributions in year 2021**
 
 
 <!--END_CONTRIBUTIONS:readme-info-->
