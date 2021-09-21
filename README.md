@@ -25,9 +25,23 @@ My interest lies in writing both **technical/non-technical blogs** and **teachin
 My hobbies include **Graphic Designing**, **Reading Novels**, **Journals** and **Listening to Music**.
 
 ## My Books
+
 I have authored a few books, do check them out below,
 
+<table>
+<tr><td>
+
 <a href="https://www.amazon.in/dp/B08S3BVQKF"><img src = "https://github.com/Abhijit2505/Abhijit2505/blob/master/Python%20-%20book%2001.png" height=200><br>A beginner's guide to Python programming</a>
+  </td><td><a href="https://books.google.co.in/books?id=7gBDEAAAQBAJ&newbks=0&hl=en&source=newbks_fb&redir_esc=y"><img src="https://i.postimg.cc/fLfGsPwJ/smartmockups-kswiede6.jpg" height=200><br>Data Structures and Algorithms Study Material</a>
+  </td></tr>
+  </table>
+  
+  
+## My Research
+
+I have a few research papers published in international journals,
+
+- Abhijit Tripathy, "Transitive Closure of a Graph using Graph Powering & Further Optimization by Euler's Fast Powering Algorithm", International Journal of Science and Research (IJSR), https://www.ijsr.net/search_index_results_paperid.php?id=MR21613054013, Volume 10 Issue 6, June 2021, 869 - 873
 
 ## Some Statistics Fun
 
@@ -40,76 +54,3 @@ I have authored a few books, do check them out below,
 <a href="https://sourcerer.io/abhijit2505"><img src="https://img.shields.io/badge/HTML-138%20commits-green.svg?style=for-the-badge" alt=""></a>
 <a href="https://sourcerer.io/abhijit2505"><img src="https://img.shields.io/badge/Dart-41%20commits-red.svg?style=for-the-badge" alt=""></a>
 <a href="https://sourcerer.io/abhijit2505"><img src="https://img.shields.io/badge/CSS-89%20commits-purple.svg?style=for-the-badge" alt=""></a>
-
-<!--START_SECTION_PROFILE_VIEWS:readme-info-->
-**✨ 2 people were here!**
-
-
-<!--END_SECTION_PROFILE_VIEWS:readme-info-->
-
-<!--START_SECTION_LINES_OF_CODE:readme-info-->
-**From Hello World I have written 0 Lines of Code ✍️**
-
-
-<!--END_SECTION_LINES_OF_CODE:readme-info-->
-
-<!--START_CONTRIBUTIONS:readme-info-->
-**🏆 907 Contributions in year 2021**
-
-
-<!--END_CONTRIBUTIONS:readme-info-->
-
-## My Trophies
-
-<img width=800 src="https://github-profile-trophy.vercel.app/?username=Abhijit2505&column=7&theme=gruvbox&no-frame=true"/>
-
-
-<!--START_SECTION_DAILY_COMMIT:readme-info-->
-**I'm an early 🐤** 
-
-| | | | |
-| --- | --- | --- | --- |
-|🌞 Morning                |145 commits         |![](https://via.placeholder.com/132x22/000000/000000?text=+)![](https://via.placeholder.com/268x22/b8b8b8/b8b8b8?=text=+)|32.88%|
-|🌆 Daytime                |176 commits         |![](https://via.placeholder.com/160x22/000000/000000?text=+)![](https://via.placeholder.com/240x22/b8b8b8/b8b8b8?=text=+)|39.91%|
-|🌃 Evening                |119 commits         |![](https://via.placeholder.com/108x22/000000/000000?text=+)![](https://via.placeholder.com/292x22/b8b8b8/b8b8b8?=text=+)|26.98%|
-|🌙 Night                  |1 commits           |![](https://via.placeholder.com/0x22/000000/000000?text=+)![](https://via.placeholder.com/400x22/b8b8b8/b8b8b8?=text=+)|0.23%|
-| | | | |
-
-<!--END_SECTION_DAILY_COMMIT:readme-info-->
-
-<!--START_SECTION_WEEKLY_COMMIT:readme-info-->
-📅 **I'm Most Productive on Tuesdays** 
-
-| | | | |
-| --- | --- | --- | --- |
-|Monday                   |49 commits          |![](https://via.placeholder.com/56x22/000000/000000?text=+)![](https://via.placeholder.com/344x22/b8b8b8/b8b8b8?=text=+)|13.8%|
-|Tuesday                  |59 commits          |![](https://via.placeholder.com/68x22/000000/000000?text=+)![](https://via.placeholder.com/332x22/b8b8b8/b8b8b8?=text=+)|16.62%|
-|Wednesday                |55 commits          |![](https://via.placeholder.com/60x22/000000/000000?text=+)![](https://via.placeholder.com/340x22/b8b8b8/b8b8b8?=text=+)|15.49%|
-|Thursday                 |47 commits          |![](https://via.placeholder.com/52x22/000000/000000?text=+)![](https://via.placeholder.com/348x22/b8b8b8/b8b8b8?=text=+)|13.24%|
-|Friday                   |54 commits          |![](https://via.placeholder.com/60x22/000000/000000?text=+)![](https://via.placeholder.com/340x22/b8b8b8/b8b8b8?=text=+)|15.21%|
-|Saturday                 |53 commits          |![](https://via.placeholder.com/60x22/000000/000000?text=+)![](https://via.placeholder.com/340x22/b8b8b8/b8b8b8?=text=+)|14.93%|
-|Sunday                   |38 commits          |![](https://via.placeholder.com/44x22/000000/000000?text=+)![](https://via.placeholder.com/356x22/b8b8b8/b8b8b8?=text=+)|10.7%|
-| | | | |
-
-<!--END_SECTION_WEEKLY_COMMIT:readme-info-->
-
-<!--START_SECTION_LANGUAGE:readme-info-->
-**My 💖 languages HTML** 
-
-| | | | |
-| --- | --- | --- | --- |
-|HTML                     |22 repos|            ![](https://via.placeholder.com/104x22/000000/000000?text=+)![](https://via.placeholder.com/296x22/b8b8b8/b8b8b8?=text=+)|26.19%|
-|C++                      |18 repos|            ![](https://via.placeholder.com/84x22/000000/000000?text=+)![](https://via.placeholder.com/316x22/b8b8b8/b8b8b8?=text=+)|21.43%|
-|Python                   |10 repos|            ![](https://via.placeholder.com/48x22/000000/000000?text=+)![](https://via.placeholder.com/352x22/b8b8b8/b8b8b8?=text=+)|11.9%|
-|JavaScript               |10 repos|            ![](https://via.placeholder.com/48x22/000000/000000?text=+)![](https://via.placeholder.com/352x22/b8b8b8/b8b8b8?=text=+)|11.9%|
-|Jupyter Notebook         |9 repos|             ![](https://via.placeholder.com/44x22/000000/000000?text=+)![](https://via.placeholder.com/356x22/b8b8b8/b8b8b8?=text=+)|10.71%|
-|CSS                      |7 repos|             ![](https://via.placeholder.com/32x22/000000/000000?text=+)![](https://via.placeholder.com/368x22/b8b8b8/b8b8b8?=text=+)|8.33%|
-|Dart                     |5 repos|             ![](https://via.placeholder.com/24x22/000000/000000?text=+)![](https://via.placeholder.com/376x22/b8b8b8/b8b8b8?=text=+)|5.95%|
-|MATLAB                   |1 repos|             ![](https://via.placeholder.com/4x22/000000/000000?text=+)![](https://via.placeholder.com/396x22/b8b8b8/b8b8b8?=text=+)|1.19%|
-|SCSS                     |1 repos|             ![](https://via.placeholder.com/4x22/000000/000000?text=+)![](https://via.placeholder.com/396x22/b8b8b8/b8b8b8?=text=+)|1.19%|
-|Go                       |1 repos|             ![](https://via.placeholder.com/4x22/000000/000000?text=+)![](https://via.placeholder.com/396x22/b8b8b8/b8b8b8?=text=+)|1.19%|
-| | | | |
-
-<!--END_SECTION_LANGUAGE:readme-info-->
-
-
