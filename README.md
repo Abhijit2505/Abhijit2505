@@ -39,7 +39,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/theinsanecoder"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="theinsanecoder" /></a><a href="https://ko-fi.com/abhijit2505"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="abhijit2505" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhijit2505&show_icons=true&locale=en&layout=compact" alt="abhijit2505" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhijit2505&show_icons=true&locale=en" alt="abhijit2505" /></p>
 
